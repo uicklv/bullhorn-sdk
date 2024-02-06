@@ -1,0 +1,9 @@
+{
+    "name": "uicklv/bullhorn-sdk",
+    "autoload": {
+        "psr-4": {
+            "Uicklv\\Bullhorn-sdk\\": "src/"
+        }
+    },
+    "require": {}
+}
